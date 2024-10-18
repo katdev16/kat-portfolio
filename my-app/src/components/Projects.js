@@ -18,6 +18,13 @@ const Projects = () => {
         </p>
         <a href="https://github.com/yourusername/robotworld-api">View on GitHub</a>
       </div>
+      <div className="project">
+        <h3>To-do list (React)</h3>
+        <p>
+          Developed a todo list program using React.
+        </p>
+        <a href="https://github.com/yourusername/robotworld-api">View on GitHub</a>
+      </div>
     </section>
   );
 };
