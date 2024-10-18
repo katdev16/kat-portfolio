@@ -5,7 +5,7 @@ const Projects = () => {
     <section id="projects">
       <h2>Projects</h2>
       <div className="project">
-        <h3>WeShare App</h3>
+        {/* <h3>WeShare App</h3>
         <p>
           A full-stack social sharing platform using Java and Spring Boot, with Thymeleaf for the frontend and MySQL for
           the database.
@@ -17,7 +17,7 @@ const Projects = () => {
         <p>
           Developed an API for a robot simulation project using Java, Javalin, and PostgreSQL.
         </p>
-        <a href="https://github.com/yourusername/robotworld-api">View on GitHub</a>
+        <a href="https://github.com/yourusername/robotworld-api">View on GitHub</a> */}
       </div>
     </section>
   );
