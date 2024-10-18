@@ -25,7 +25,7 @@ ul {
 }
 
 ul li {
-  background-color: #ddd;
+  background-color: rgb(157, 157, 225);
   margin: 0.5rem 0;
   padding: 0.5rem;
 }
@@ -37,4 +37,13 @@ a {
 
 a:hover {
   text-decoration: underline;
+}
+
+#about{
+  border: 5pt solid #ffffff ;
+}
+
+
+#projects{
+  border: 5pt solid #ffffff ;
 }
