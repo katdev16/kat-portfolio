@@ -40,10 +40,12 @@ a:hover {
 }
 
 #about{
-  border: 5pt solid #ffffff ;
+  border: 2pt solid #ffffff ;
+  padding: 3%;
 }
 
 
 #projects{
-  border: 5pt solid #ffffff ;
+  border: 2pt solid #ffffff ;
+  padding: 3%;
 }
