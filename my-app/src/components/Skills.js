@@ -10,7 +10,7 @@ const Skills = () => {
         <li>HTML5, CSS3</li>
         <li>Version Control (Git, GitHub)</li>
         <li>SQL</li>
-        <li>Java (Spring Boot, Javalin)</li>
+        <li>Java</li>
       </ul>
     </section>
   );

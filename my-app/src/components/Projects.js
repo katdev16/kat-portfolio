@@ -11,13 +11,13 @@ const Projects = () => {
         </p>
         <a href="https://github.com/yourusername/weshare-app">View on GitHub</a>
       </div>
-      {/* <div className="project">
-        <h3>RobotWorld API</h3>
+      <div className="project">
+        <h3>Calculator (Javascript)</h3>
         <p>
-          Developed an API for a robot simulation project using Java, Javalin, and PostgreSQL.
+          Developed a calculator program using html css and Javascript.
         </p>
         <a href="https://github.com/yourusername/robotworld-api">View on GitHub</a>
-      </div> */}
+      </div>
     </section>
   );
 };
