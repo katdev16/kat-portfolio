@@ -10,8 +10,8 @@ function App() {
   return (
     <div className="App">
       <header>
-        <h1>Katlego Dhlamini - Developer Portfolio</h1>
-        <img src={profileImage} alt="Katlego Dhlamini" style={{ width: '150px', borderRadius: '50%' }} />
+        <h1>Katlego - Developer Portfolio</h1>
+        <img src={profileImage} alt="Katlego" style={{ width: '150px', borderRadius: '50%' }} />
       </header>
       <About />
       <Skills />

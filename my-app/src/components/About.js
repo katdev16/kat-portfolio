@@ -5,7 +5,7 @@ const About = () => {
     <section id="about">
       <h2>About Me</h2>
       <p>
-        Hi, I'm Katlego Dhlamini, a [Frontend/Backend/Full Stack] developer passionate about building interactive and
+        Hi, I'm Katlego, a [Frontend/Backend/Full Stack] developer passionate about building interactive and
         dynamic web applications using various technologies.
       </p>
       <p>
